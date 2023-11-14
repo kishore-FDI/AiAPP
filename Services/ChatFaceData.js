@@ -1,0 +1,37 @@
+export default chatFaceData=[
+    {
+        id:1,
+        name:'Saul',
+        image:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fbreakingbad.fandom.com%2Fwiki%2FJimmy_McGill&psig=AOvVaw1hAy7bkTk3S7784-fc1f0j&ust=1699416173089000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjRytyAsYIDFQAAAAAdAAAAABAE',
+        primary:'#37474F',
+        secondary:''
+    },
+    {
+        id:2,
+        name:'Patrick',
+        image:'https://img00.deviantart.net/e085/i/2017/225/2/e/chibi_spiderman_by_gammas_universe-dbjv9ae.png',
+        primary:'#E53057',
+        secondary:''
+    },
+    {
+        id:3,
+        name:'Nista',
+        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685709886/image_22_409561b953.png',
+        primary:'#3B96D2',
+        secondary:''
+    },
+    {
+        id:4,
+        name:'Estor',
+        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685709886/image_18_893d24cebc.png',
+        primary:'#FFC107',
+        secondary:''
+    },
+    {
+        id:5,
+        name:'heisbreg',
+        image:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWalter_White_%2528Breaking_Bad%2529&psig=AOvVaw1_G9JXu4Bshtu8jsD-Olgf&ust=1699416253467000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjvlIOBsYIDFQAAAAAdAAAAABAE',
+        primary:'#2473FE',
+        secondary:''
+    },
+]
