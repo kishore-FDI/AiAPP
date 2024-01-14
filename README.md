@@ -63,5 +63,3 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to Google for providing the Gemini model and the React Native community for building a robust framework.
 
 ---
-
-Feel free to customize this README based on your specific project details, and don't forget to include any necessary license information.
