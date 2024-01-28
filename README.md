@@ -5,7 +5,7 @@
 Welcome to the Chatbot App, a React Native project powered by Google's Gemini model. This mobile app offers a seamless and engaging chat experience, leveraging advanced natural language processing for intelligent responses.
 
 ## Features
-
+ 
 - **Google's Gemini Model:** The chatbot utilizes Google's powerful Gemini model, providing state-of-the-art language understanding and conversation capabilities.
 
 - **React Native Framework:** Built using React Native, the app ensures a cross-platform, responsive, and user-friendly interface for both Android and iOS devices.
